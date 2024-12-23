@@ -1,3 +1,8 @@
+# Author Information
+# Name: Eugene Su
+# Email: su.eugene@gmail.com
+# GitHub: https://github.com/EugenePig
+
 import sys, os, time, math
 import argparse
 from os.path import join, dirname, basename, splitext, abspath, exists

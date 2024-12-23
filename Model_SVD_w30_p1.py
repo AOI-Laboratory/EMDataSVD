@@ -1,3 +1,8 @@
+# Author Information
+# Name: Eugene Su
+# Email: su.eugene@gmail.com
+# GitHub: https://github.com/EugenePig
+
 import torch
 from torch import nn
 from ResNet import FeatureNet18
